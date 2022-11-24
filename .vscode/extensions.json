@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "bbenoist.nix",
+    "be5invis.toml",
+    "vadimcn.vscode-lldb",
+    "rust-lang.rust-analyzer",
+    "editorconfig.editorconfig"
+  ]
+}
