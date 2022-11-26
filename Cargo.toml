@@ -4,5 +4,6 @@ members = [
   "penguins",
   "mandelbrot",
   "grep-lite",
-  "files"
+  "files",
+  "constellation"
 ]
