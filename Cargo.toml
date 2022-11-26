@@ -2,5 +2,6 @@
 
 members = [
   "penguins",
-  "mandelbrot"
+  "mandelbrot",
+  "grep-lite"
 ]
