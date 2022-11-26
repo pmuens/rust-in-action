@@ -3,5 +3,6 @@
 members = [
   "penguins",
   "mandelbrot",
-  "grep-lite"
+  "grep-lite",
+  "files"
 ]
